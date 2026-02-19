@@ -6,6 +6,7 @@ React autocomplete component with MUI that fetches and displays client data.
 
 - Node.js 18+
 - npm
+- git clone https://github.com/earamburo/Autocomplete.git
 
 ## Installation
 ```bash
